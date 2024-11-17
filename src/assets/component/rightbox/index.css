@@ -1,0 +1,44 @@
+.right_text{
+
+    width: 35%;
+    min-height: 700px ;
+  
+}
+.right_text h1
+{
+ font-size: 30px;
+}
+.right_text p{
+
+    margin: 20px 0;
+    font-size: 20px;
+}
+.left_text{
+    width: 65%;
+    min-height: 700px ;
+ 
+}
+.right_text_btn{
+    border-radius: 8px;
+    background-color: lightgreen;
+    height: 60px;
+    width: 200px;
+    border: none;
+    margin-top: 30px;
+
+}
+.btn_contanier{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    gap: 20px;
+    width: 100%;
+}
+.btn_contanier button{
+    height: 50px;
+    width: 150px;
+    border: none;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+}

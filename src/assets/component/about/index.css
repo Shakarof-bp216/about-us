@@ -1,0 +1,13 @@
+.about_us{
+    width: 100%;
+    height: 80px;
+    padding: 20px;
+   
+}
+.about_us h5{
+    color:#ff511a;
+}
+.about_us *{
+    text-align: center;
+   
+}
